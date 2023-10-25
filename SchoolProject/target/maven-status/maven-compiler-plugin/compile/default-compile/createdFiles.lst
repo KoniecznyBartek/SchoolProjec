@@ -1,0 +1,9 @@
+hibernate\RunDatabase.class
+org\example\Main.class
+model\Subject.class
+utils\Utils.class
+model\School.class
+utils\Menu.class
+service\PersonService.class
+service\SubjectService.class
+model\Person.class
